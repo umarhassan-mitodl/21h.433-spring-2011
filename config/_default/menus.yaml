@@ -1,0 +1,42 @@
+leftnav:
+- identifier: dc0522f7-7a10-2749-eafe-e3f614f86f6f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 75e3d941-5388-359d-900e-7823693c3e29
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 08dc8971-fcdd-6b6b-0e86-589b8630d238
+  name: Lecture Images
+  pageRef: /pages/lecture-images
+  weight: 30
+- identifier: a67082f5-ff4a-86cb-902a-96598d36ab56
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: efa62615-3b2b-147f-92ea-ef0574a03ed3
+  name: First Paper
+  pageRef: /pages/assignments/first-paper
+  parent: a67082f5-ff4a-86cb-902a-96598d36ab56
+  weight: 50
+- identifier: 510580b4-7127-c223-6dd5-f6e7179e6949
+  name: Second Paper
+  pageRef: /pages/assignments/second-paper
+  parent: a67082f5-ff4a-86cb-902a-96598d36ab56
+  weight: 60
+- identifier: efa0d739-6a5f-b0c7-baad-2deca68bca7c
+  name: Third Paper
+  pageRef: /pages/assignments/third-paper
+  parent: a67082f5-ff4a-86cb-902a-96598d36ab56
+  weight: 70
+- identifier: 1c1d0937-85f9-c9f2-01d3-f8e286c3d096
+  name: First Debate Resolution and Format
+  pageRef: /pages/assignments/first-debate-resolution-and-format
+  parent: a67082f5-ff4a-86cb-902a-96598d36ab56
+  weight: 80
+- identifier: e9c52b45-61ce-48e5-36e8-bbe5e8f9f56e
+  name: Second Debate Resolution and Format
+  pageRef: /pages/assignments/second-debate-resolution-and-format
+  parent: a67082f5-ff4a-86cb-902a-96598d36ab56
+  weight: 90
