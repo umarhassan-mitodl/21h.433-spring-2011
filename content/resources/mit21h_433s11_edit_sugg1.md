@@ -5,8 +5,6 @@ description: This resource is the writing process which includes rigorous editin
 file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/b2e17ebaa8bd3bff958ca93aea08c0a2_MIT21H_433S11_Edit_Sugg1.pdf
 file_size: 34950
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

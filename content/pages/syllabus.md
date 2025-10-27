@@ -4,8 +4,6 @@ description: This syllabus section provides the subject description, a syllabus 
   and information on meeting times, requirements, criteria for HASS CI subjects, a
   statement on cheating and plagiarism, and and the schedule of lecture topics and
   key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -112,9 +110,9 @@ Statement on Cheating and Plagiarism
 
 The web now hosts many sites which offer college-level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. **Buying a paper and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism.** MIT has strict policies against both activities that I will fully enforce. For the appropriate MIT definitions and policies, visit the following websites. If you are uncertain about what constitutes cheating or plagiarism, please contact me **before** submitting the work in question.
 
-[MIT Online Writing Communication Center](http://cmsw.mit.edu/writing-and-communication-center/)
+{{% resource_link "dadd4fcd-a29a-4787-875a-a75b0fdb8a43" "MIT Online Writing Communication Center" %}}
 
-[Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
+{{% resource_link "c5002bf2-08b5-407d-805d-752d9d023451" "Avoiding Plagiarism" %}}
 
 Calendar
 --------
@@ -232,7 +230,7 @@ A Visit to the MFA
 
 {{< tdclose >}}
 {{< tdopen >}}
- A class visit to the [Boston Museum of Fine Art](http://www.mfa.org/)
+ A class visit to the {{% resource_link "83091e2d-ecf1-4650-94da-b83e85ed66fa" "Boston Museum of Fine Art" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
